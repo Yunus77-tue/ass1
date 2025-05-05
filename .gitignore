@@ -23,6 +23,7 @@ pids/
 .env
 .env.local
 .env.*.local
+.venv
 
 # IDE / Editor config
 .vscode/
